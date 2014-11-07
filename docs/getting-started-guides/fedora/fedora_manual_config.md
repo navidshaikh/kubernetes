@@ -229,14 +229,14 @@ kubectl get minions
                             "hostPort": 80,
                             "protocol": "TCP"
                         }
-                    ],
+                    ]
                 }
             ],
             "restartPolicy": {
                 "always": {}
             }
-        },
-    },
+        }
+    }
 }
 ```       
 
